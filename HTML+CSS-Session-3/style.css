@@ -1,3 +1,11 @@
-.pl{
-    color:blue; font-weight: bold; font-size:50px;
+ol >.p1{
+    color:blue; font-weight: bold; font-size: 50px;
+}
+
+.p2{
+    color: grey; font-size: 20px;
+}
+
+.p3{
+    font-size: 8px; font-weight: italic; 
 }
