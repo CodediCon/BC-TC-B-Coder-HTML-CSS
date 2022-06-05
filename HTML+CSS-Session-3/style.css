@@ -1,19 +1,27 @@
-ol >.p1{
-    color:blue; font-weight: bold; font-size: 50px;
+p:nth-of-type(1) { 
+    color:blue; font-size:50px;
 }
 
-.p2{
-    color: grey; font-size: 20px;
+p:nth-of-type(2) {
+   color:grey
 }
-
-.p3{
-    font-size: 8px; font-weight: italic; 
+ 
+p:nth-of-type(3) { 
+    text-align:right; color:green; font-size:8px;
 }
-
-.p4{
-    color:orange;font-size:35px;
+ 
+p:nth-of-type(4) { 
+    text-align:right; color:orange;font-weight: bold;
 }
-
-.p5{
-    color:pink;font-family:Tahoma;
+  
+p:nth-of-type(5) { 
+    text-align:justified; color:pink; font-family:Tahoma
+}
+  
+p:nth-of-type(6) { 
+   color:purple; font-family:"Roboto", "Helvetica","sans-serif"; text-decoration: underline;
+}
+  
+p:nth-of-type(7) { 
+    background:yellow; font-family: Comic Sans MS, Comic Sans;
 }
