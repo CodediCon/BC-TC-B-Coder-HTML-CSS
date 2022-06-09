@@ -17,7 +17,7 @@ body {
   
   .semicircle1 {
     background-color: #444;
-    /*background-color: red;*/
+    background-color: red;
     height: 200px;
     width: 400px;
     border-radius: 275px 275px 0 0;
@@ -27,7 +27,7 @@ body {
   
   .semicircle2 {
     background-color: #555;
-    /*background-color: orange;*/
+    background-color: orange;
     height: 180px;
     width: 360px;
     top: 20px;
@@ -38,7 +38,7 @@ body {
   
   .semicircle3 {
     background-color: #666;
-    /*background-color: yellow;*/
+    background-color: yellow;
     height: 160px;
     width: 320px;
     top: 20px;
@@ -49,7 +49,7 @@ body {
   
   .semicircle4 {
     background-color: #777;
-    /*background-color: green;*/
+    background-color: green;
     height: 140px;
     width: 280px;
     top: 20px;
@@ -60,7 +60,7 @@ body {
   
   .semicircle5 {
     background-color: #aaa;
-    /*background-color: blue;*/
+    background-color: blue;
     height: 120px;
     width: 240px;
     top: 20px;
@@ -71,7 +71,7 @@ body {
   
   .semicircle6 {
     background-color: #ccc;
-    /*background-color: indigo;*/
+    background-color: indigo;
     height: 100px;
     width: 200px;
     top: 20px;
@@ -82,7 +82,7 @@ body {
   
   .semicircle7 {
     background-color: #eee;
-    /*background-color: violet;*/
+    background-color: violet;
     height: 80px;
     width: 160px;
     top: 20px;
@@ -100,3 +100,4 @@ body {
     border-radius: 275px 275px 0 0;
     position: relative;
   }
+  
