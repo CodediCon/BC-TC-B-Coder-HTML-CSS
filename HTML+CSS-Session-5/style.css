@@ -1,0 +1,16 @@
+@keyframes pulse {
+    0% {background-color: #cc0000;} 
+    25% {background-color: #FBBC05;} 
+    50% {background-color: #429C0E;} 
+    75% {background-color: #3A92EC;}
+    100%{background-color: purple;}
+    }
+
+    div {
+        width: 100px;
+        height: 100px;
+        border-radius:50%;
+        background-color: #cc0000;
+        animation-name: pulse;
+        animation-duration: 4s;
+    }
