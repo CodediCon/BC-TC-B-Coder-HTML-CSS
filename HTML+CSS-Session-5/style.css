@@ -1,4 +1,4 @@
-@keyframes pulse{
+@keyframes pulse {
     0% {background-color: #cc0000;}
     25% {background-color: #FBBC05;} 
     50% {background-color: #429C0E;} 
@@ -6,11 +6,11 @@
     100% {background-color: purple;}
 }
 
-div {
+#rainbow{
     width: 100px;
     height: 100px;
     border-radius:50%;
-    background-color: #cc0000;
+    background-color: white;
     animation-name: pulse;
     animation-duration: 4s;
 }
