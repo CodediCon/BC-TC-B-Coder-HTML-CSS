@@ -1,103 +1,103 @@
-
 body {
-    padding: 0;
-    margin: 0;
-    background-color: white;
-  }
-  
-  .container {
-    background-color:white;
-    display: flex;
-    height: 100vh;
-    width: 100%;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .semicircle1 {
-    background-color: #444;
-    background-color: red;
-    height: 200px;
-    width: 400px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-    bottom:-12%;
-  }
-  
-  .semicircle2 {
-    background-color: #555;
-    background-color: orange;
-    height: 180px;
-    width: 360px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle3 {
-    background-color: #666;
-    background-color: yellow;
-    height: 160px;
-    width: 320px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle4 {
-    background-color: #777;
-    background-color: green;
-    height: 140px;
-    width: 280px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle5 {
-    background-color: #aaa;
-    background-color: blue;
-    height: 120px;
-    width: 240px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle6 {
-    background-color: #ccc;
-    background-color: indigo;
-    height: 100px;
-    width: 200px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle7 {
-    background-color: #eee;
-    background-color: violet;
-    height: 80px;
-    width: 160px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
-  .semicircle8 {
-    background-color: #fff;
-    height: 60px;
-    width: 120px;
-    top: 20px;
-    left: 20px;
-    border-radius: 275px 275px 0 0;
-    position: relative;
-  }
-  
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+.container:hover (
+
+)
+.container {
+  background-color:white;
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.semicircle1 {
+  background-color: #444;
+  /*background-color: red;*/
+  height: 200px;
+  width: 400px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+  bottom:-12%;
+}
+
+.semicircle2 {
+  background-color: #555;
+  /*background-color: orange;*/
+  height: 180px;
+  width: 360px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle3 {
+  background-color: #666;
+  /*background-color: yellow;*/
+  height: 160px;
+  width: 320px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle4 {
+  background-color: #777;
+  /*background-color: green;*/
+  height: 140px;
+  width: 280px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle5 {
+  background-color: #aaa;
+  /*background-color: blue;*/
+  height: 120px;
+  width: 240px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle6 {
+  background-color: #ccc;
+  /*background-color: indigo;*/
+  height: 100px;
+  width: 200px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle7 {
+  background-color: #eee;
+  /*background-color: violet;*/
+  height: 80px;
+  width: 160px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
+
+.semicircle8 {
+  background-color: #fff;
+  height: 60px;
+  width: 120px;
+  top: 20px;
+  left: 20px;
+  border-radius: 275px 275px 0 0;
+  position: relative;
+}
