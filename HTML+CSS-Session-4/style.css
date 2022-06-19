@@ -10,7 +10,8 @@ h1, h2, h3, h4, h5, h6 {
     font-size: px;
   }
   
-  @media screen (min-width: 480px) {
+  @media (min-width: 480px) {
+  }
     body {
       font-size: 26px;
       background: #3c70c4;
